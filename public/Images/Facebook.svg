@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Facebook" transform="translate(-0.667 -0.333)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(0.333 0)">
+      <g id="_01.facebook" data-name="01.facebook" transform="translate(0)">
+        <circle id="background" cx="16" cy="16" r="16" transform="translate(0.334 0.333)" fill="#334c8c"/>
+        <path id="icon" d="M64.89,44.531l-.267,2.243a.424.424,0,0,1-.424.377H61.867v6.656a.3.3,0,0,1-.3.3H59.194a.3.3,0,0,1-.3-.305l.013-6.654H57.144a.424.424,0,0,1-.424-.424V44.485a.424.424,0,0,1,.424-.424H58.9V41.886C58.9,39.369,60.4,38,62.588,38h1.8a.424.424,0,0,1,.424.424v1.889a.424.424,0,0,1-.424.424h-1.1c-1.191.019-1.416.589-1.416,1.441v1.876h2.61a.424.424,0,0,1,.413.477Z" transform="translate(-45.319 -29.977)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

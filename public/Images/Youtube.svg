@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="32" viewBox="0 0 33 32">
+  <g id="Youtube" transform="translate(-0.234 0)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(0.333 0)">
+      <g id="_04.youtube" data-name="04.youtube" transform="translate(0 0)">
+        <ellipse id="background" cx="16.5" cy="16" rx="16.5" ry="16" transform="translate(-0.1 0)" fill="#f20000"/>
+        <path id="icon" d="M53.627,50.234a2.834,2.834,0,0,0-2.367-1.721,49.957,49.957,0,0,0-10.565,0,2.848,2.848,0,0,0-2.358,1.721,20.028,20.028,0,0,0,0,7.715,2.862,2.862,0,0,0,2.375,1.721,50.239,50.239,0,0,0,10.565,0,2.852,2.852,0,0,0,2.358-1.721A20.028,20.028,0,0,0,53.627,50.234Zm-9.558,6.928V51.019l5,3.071C47.385,55.126,45.748,56.134,44.069,57.162Z" transform="translate(-29.815 -38.09)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

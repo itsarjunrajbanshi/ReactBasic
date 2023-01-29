@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Caveat:wght@400;500;600;700&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+// font-family: 'Aboreto', cursive;
+// font-family: 'Caveat', cursive;
+// font-family: 'Roboto Condensed', sans-serif;
+
+
+.container {
+    background-color: lightblue;
+    padding: 50px;
+    margin: 15px;
+    border-radius: 20px;
+    text-align: center;
+
+    .box {
+        background-color: skyblue;
+        padding: 1rem;
+        margin: 1.5rem;
+        border-style: groove;
+        border-radius: 20px;
+    }
+
+    h1 {
+        font-size: 3rem;
+        text-shadow: 13px 9px 5px rgb(180, 6, 6);
+    }
+
+    h2 {
+        font-size: 33px;
+        text-shadow: 5px 5px 5px black;
+    }
+
+    .img {
+
+        #url {
+            border-radius: 50%;
+        }
+
+    }
+
+
+    .icons {
+
+        .react-icons {
+
+            // font-size: 3rem; increases both icons and h2 size
+
+            .r-icons {
+                font-size: 7rem;
+                // color: red;
+            }
+
+            #alien {
+                cursor: pointer;
+
+                &:hover {
+                    color: rgb(126, 4, 8);
+                    scale: 1.5;
+                }
+            }
+
+        }
+    }
+
+
+    .fonts {
+
+        h2 {
+            font-family: 'Aboreto', cursive;
+        }
+
+        p {
+            font-family: 'Caveat', cursive;
+            font-size: 1.5rem;
+        }
+    }
+
+
+}
