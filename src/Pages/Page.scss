@@ -1,0 +1,20 @@
+.navbar {
+    background-color: lightcoral;
+    margin: 15px;
+    border-radius: 20px;
+
+    nav {
+        ul {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            li {
+                padding: 9px;
+                font-size: 22px;
+                font-weight: 700;
+
+            }
+        }
+    }
+}
